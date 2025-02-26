@@ -1,0 +1,23 @@
+{
+  "name": "crackingthecodinginterview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LinkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatishballa/CrackingTheCodingInterview.git"
+  },
+  "author": "A.Balla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aatishballa/CrackingTheCodingInterview/issues"
+  },
+  "homepage": "https://github.com/aatishballa/CrackingTheCodingInterview#readme",
+  "devDependencies": {
+    "eslint": "^9.21.0",
+    "prettier": "^3.5.2"
+  }
+}
